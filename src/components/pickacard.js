@@ -16,6 +16,7 @@ export default function Pickacard(){
                 <div className="piece">9</div>
                 <div className="piece">10</div>
             </div>
+            <button className="try-btn">Give me a random card</button>
         </div>
     )
 }

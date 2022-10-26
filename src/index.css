@@ -21,3 +21,15 @@ body {
   justify-content: center;
   align-items: center;
 }
+.try-btn{
+  font-size: 20px;
+  font-weight: 500;
+  padding: 10px;
+  background-color:rgb(151, 44, 208);
+  color: white;
+  border: none;
+  outline: none;
+  margin: 10px;
+  letter-spacing: 2px;
+  border-radius: 10px;
+}
